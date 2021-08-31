@@ -1,0 +1,15 @@
+.panda-bg-info{
+    background-color:#fceae8 ;
+}
+.b-margin{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.buy-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 10px;
+    padding: 8px 25px;
+    direction: none;
+}
